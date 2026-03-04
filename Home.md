@@ -7,9 +7,6 @@
 
 
 ## Syncro
-- ## Design
-	- [[Principes-UX|Principes UX]]
-	- [[Pages|Écrans à concevoir]]
 - [[Syncro/Vue-ensemble|Vue d'ensemble & concepts clés]]
 
 

@@ -4,11 +4,12 @@
 
 ## Tâches en cours / à faire
 
-- [x] Améliorer le workflow de développement avec des branches séparées (dev / production) ✅ 2026-03-04
+
 - [ ] Créer un wireframe précis de toutes les pages à réaliser
 - [ ] Créer un plan d'ajout des fonctionnalités une par une
 - [ ] Créer un plan de spécification
 - [ ] Créer un plan de cas de tests
+- [ ] Créer les Docker nécessaire pour tout faire tourner sur un VPS durant le dev
 - [ ] Créer les ressources OVH (Kubernetes, PostgreSQL, Redis, Load Balancer, S3)
 
 ---
@@ -17,6 +18,7 @@
 
 - [x] Créer le repo GitHub
 - [x] Connecter le projet au repo GitHub
+- [x] Améliorer le workflow de développement avec des branches séparées (dev / production) ✅ 2026-03-04
 
 ---
 
@@ -31,6 +33,5 @@
 
 ## Voir aussi
 
-- [[Branch-Strategy|Stratégie de branches Git]]
+- [[Branches|Stratégie de branches Git]]
 - [[../Architecture/Tech-Stack|Stack technique — infrastructure OVH]]
-- [[../Apps/Syncro/Backend|Backend — documentation existante]]

@@ -10,9 +10,10 @@
 - [ ] Calendrier — vue Mois
 
 ## Contacts & permissions
-- [ ] Liste des contacts
-- [ ] Éditeur de permissions par tag (qui voit quoi)
-- [ ] Aperçu "incognito" — simulation de ce que l'autre voit
+- [ ] Liste des contacts (possibilité de définir high trust)
+- [ ] Liste des groupes
+- [ ] Éditeur de permissions par tag (qui voit quoi en fonction des groupes)
+- [ ] Aperçu "incognito" — simulation de ce que l'autre les personnes dans ce groupe
 
 ## Demandes de planification
 - [ ] Inbox / outbox des demandes

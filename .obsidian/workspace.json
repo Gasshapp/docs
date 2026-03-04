@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Syncro/Vue-ensemble.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Vue-ensemble"
+            }
+          },
+          {
+            "id": "1ddd455d19060e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syncro/Priorite-Evenements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Priorite-Evenements"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Syncro/Priorite-Evenements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Home"
+              "title": "Rétrolien pour Priorite-Evenements"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Syncro/Priorite-Evenements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Home"
+              "title": "Liens sortants de Priorite-Evenements"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Syncro/Priorite-Evenements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Home"
+              "title": "Plan de Priorite-Evenements"
             }
           },
           {
@@ -186,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,15 +221,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e3e62164197b2658",
+  "active": "1ddd455d19060e09",
   "lastOpenFiles": [
+    "Syncro/Design/Sans titre.canvas",
+    "Syncro/Priorite-Evenements.md",
+    "Syncro/Pages.md",
+    "Syncro/Design/Drawing 2026-03-04 18.42.40.excalidraw.md",
     "Syncro/Vue-ensemble.md",
-    "Tech/Stack.md",
-    "Dev/Roadmap.md",
-    "Dev/Branches.md",
-    "Syncro/Design/Pages.md",
-    "Dev/Branch-Strategy.md",
+    "Syncro/Design",
     "Syncro/Design/Principes-UX.md",
+    "Dev/Roadmap.md",
+    "Branch-Strategy.md",
+    "Untitled Kanban.md",
+    "Sans titre.base",
+    "Sans titre.canvas",
+    "2026-03-04.md",
+    "Home.md",
+    "Tech/Stack.md",
+    "Dev/Branches.md",
+    "Dev/Branch-Strategy.md",
     "Syncro",
     "Tech",
     "Syncro/Design",
@@ -230,16 +255,10 @@
     "Apps/Syncro/API-Endpoints.md",
     "Architecture/Ecosystem-Overview.md",
     "Architecture/Core-Package.md",
-    "Home.md",
     "Apps/Syncro/Backend.md",
     "Apps/Syncro/Overview.md",
-    "Architecture/Tech-Stack.md",
     "Home.md.tmp.5652.1772639410178",
     "Dev",
-    "Concepts",
-    "Apps/Syncro",
-    "Apps",
-    "Bienvenue.md",
-    "Untitled Kanban.md"
+    "Concepts"
   ]
 }
