@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5471920597042c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syncro/Vue-ensemble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vue-ensemble"
-            }
-          },
-          {
             "id": "1ddd455d19060e09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Syncro/Priorite-Evenements.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Priorite-Evenements"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syncro/Priorite-Evenements.md",
+                "file": "Syncro/Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Priorite-Evenements"
+              "title": "Rétrolien pour Pages"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syncro/Priorite-Evenements.md",
+                "file": "Syncro/Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Priorite-Evenements"
+              "title": "Liens sortants de Pages"
             }
           },
           {
@@ -201,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,42 +208,43 @@
   },
   "active": "1ddd455d19060e09",
   "lastOpenFiles": [
+    "Syncro/Design/component/CalendarPage.md",
+    "Sans titre.md",
+    "Syncro/Design/Sans titre.md",
     "Syncro/Design/Sans titre.canvas",
-    "Syncro/Priorite-Evenements.md",
+    "Untitled Kanban.md",
+    "Syncro/Design/component/Syncro_Calendar_Lenses_Focus.jsx",
+    "Syncro/Design/component",
+    "Syncro/Design/component/Syncro_Mockups_v01.md",
+    "Syncro/Design/component/Syncro_Mockups_v01.jsx",
+    "Syncro/Design/component",
     "Syncro/Pages.md",
-    "Syncro/Design/Drawing 2026-03-04 18.42.40.excalidraw.md",
+    "Syncro/Priorite-Evenements.md",
     "Syncro/Vue-ensemble.md",
+    "Syncro/Design/Syncro_Mockups_v01.jsx",
+    "Home.md",
+    "Syncro/Design/Drawing 2026-03-04 18.42.40.excalidraw.md",
     "Syncro/Design",
     "Syncro/Design/Principes-UX.md",
     "Dev/Roadmap.md",
     "Branch-Strategy.md",
-    "Untitled Kanban.md",
     "Sans titre.base",
     "Sans titre.canvas",
     "2026-03-04.md",
-    "Home.md",
     "Tech/Stack.md",
     "Dev/Branches.md",
     "Dev/Branch-Strategy.md",
     "Syncro",
     "Tech",
     "Syncro/Design",
-    "Dev/Roadmap.md.tmp.5652.1772639906275",
     "Dev/Local-Dev-Setup.md",
     "Concepts/Privacy-Engine.md",
     "Concepts/Guest-System.md",
     "Concepts/Availability-Engine.md",
-    "Concepts/Availability-Engine.md.tmp.5652.1772639789704",
     "Concepts/Groups-Hierarchy.md",
     "Apps/Syncro/Frontend.md",
     "Concepts/Tags-Identity.md",
     "Apps/Syncro/API-Endpoints.md",
-    "Architecture/Ecosystem-Overview.md",
-    "Architecture/Core-Package.md",
-    "Apps/Syncro/Backend.md",
-    "Apps/Syncro/Overview.md",
-    "Home.md.tmp.5652.1772639410178",
-    "Dev",
-    "Concepts"
+    "Architecture/Ecosystem-Overview.md"
   ]
 }
