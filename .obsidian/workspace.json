@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b08ad2e0230031e",
+        "id": "e32356cf8891277d",
         "type": "tabs",
         "children": [
           {
-            "id": "1ddd455d19060e09",
+            "id": "f73db3e0bc08f290",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "NexusAI/architecture.md"
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "architecture"
             }
           }
         ]
@@ -171,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -202,12 +200,15 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ddd455d19060e09",
+  "active": "f73db3e0bc08f290",
   "lastOpenFiles": [
+    "NexusAI/architecture.md",
+    "Excalidraw",
+    "NexusAI",
     "Syncro/Design/component/CalendarPage.md",
     "Sans titre.md",
     "Syncro/Design/Sans titre.md",
@@ -235,8 +236,6 @@
     "Dev/Branches.md",
     "Dev/Branch-Strategy.md",
     "Syncro",
-    "Tech",
-    "Syncro/Design",
     "Dev/Local-Dev-Setup.md",
     "Concepts/Privacy-Engine.md",
     "Concepts/Guest-System.md",
@@ -244,7 +243,6 @@
     "Concepts/Groups-Hierarchy.md",
     "Apps/Syncro/Frontend.md",
     "Concepts/Tags-Identity.md",
-    "Apps/Syncro/API-Endpoints.md",
-    "Architecture/Ecosystem-Overview.md"
+    "Apps/Syncro/API-Endpoints.md"
   ]
 }
