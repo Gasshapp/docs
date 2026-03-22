@@ -11,12 +11,14 @@
             "id": "35fcfa63b0473fcc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "NexusAI/architecture.md"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "architecture"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -206,8 +208,8 @@
   },
   "active": "35fcfa63b0473fcc",
   "lastOpenFiles": [
-    "Home.md",
     "NexusAI/architecture.md",
+    "Home.md",
     "Excalidraw",
     "NexusAI",
     "Syncro/Design/component/CalendarPage.md",
