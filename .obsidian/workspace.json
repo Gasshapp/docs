@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e17b7bba5c014f2a",
+        "id": "c73ccd8420fb8e46",
         "type": "tabs",
         "children": [
           {
-            "id": "cb56160f1e8f86b8",
+            "id": "24b462c1fed25144",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb56160f1e8f86b8",
+  "active": "b58b082614ed5c8a",
   "lastOpenFiles": [
     "NexusAI/architecture.md",
     "Home.md",
