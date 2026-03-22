@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78ed4f4f159f4892",
+        "id": "e17b7bba5c014f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "35fcfa63b0473fcc",
+            "id": "cb56160f1e8f86b8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "NexusAI/architecture.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "architecture"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -204,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35fcfa63b0473fcc",
+  "active": "cb56160f1e8f86b8",
   "lastOpenFiles": [
     "NexusAI/architecture.md",
     "Home.md",
