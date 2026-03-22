@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e32356cf8891277d",
+        "id": "78ed4f4f159f4892",
         "type": "tabs",
         "children": [
           {
-            "id": "f73db3e0bc08f290",
+            "id": "35fcfa63b0473fcc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f73db3e0bc08f290",
+  "active": "35fcfa63b0473fcc",
   "lastOpenFiles": [
     "NexusAI/architecture.md",
     "Excalidraw",
