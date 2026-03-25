@@ -11,10 +11,12 @@
             "id": "24b462c1fed25144",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "excalidraw",
+              "state": {
+                "file": "NexusAI/architecture.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "architecture"
             }
           }
         ]
@@ -202,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b58b082614ed5c8a",
+  "active": "24b462c1fed25144",
   "lastOpenFiles": [
     "NexusAI/architecture.md",
     "Home.md",
